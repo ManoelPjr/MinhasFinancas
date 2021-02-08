@@ -1,2 +1,2 @@
 # MinhasFinancas
-Sistema de controle financeiro
+Sistema de controle financeiro com Sprig boot e React
